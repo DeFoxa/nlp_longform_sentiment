@@ -8,5 +8,5 @@
 - ProsusAI/Finbert: https://huggingface.co/ProsusAI/finbert
 - ahmedrachid/FinancialBERT: https://huggingface.co/ahmedrachid/FinancialBERT
 - mrm8488/distilroberta-fine-tuned-financial-news-sentiment-analysis: https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis
--RogerKam/roberta_fine_tuned_sentiment_newsmtsc: https://huggingface.co/RogerKam/roberta_fine_tuned_sentiment_newsmtsc
+- RogerKam/roberta_fine_tuned_sentiment_newsmtsc: https://huggingface.co/RogerKam/roberta_fine_tuned_sentiment_newsmtsc
 
